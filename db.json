@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "첫 번째 게시글",
+      "content": "Lit CRUD 테스트입니다.",
+      "author": "User1"
+    },
+    {
+      "id": "2",
+      "title": "두 번째 게시글",
+      "content": "Lit을 활용해 웹 컴포넌트를 만들어요.",
+      "author": "User2"
+    },
+    {
+      "id": "9966",
+      "title": "이글은 새글이다",
+      "content": "한글 테스트",
+      "author": "admin",
+      "date": "2025-11-17"
+    }
+  ]
+}

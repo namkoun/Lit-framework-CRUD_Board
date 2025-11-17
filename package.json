@@ -1,0 +1,23 @@
+{
+  "name": "lit-crud-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lit-labs/observers": "^2.0.6",
+    "lit": "^3.3.1"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "vite": "^7.2.2"
+  }
+}
